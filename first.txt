@@ -1,1 +1,2 @@
 "again a file " 
+my new notes abput git repo in online github mode
